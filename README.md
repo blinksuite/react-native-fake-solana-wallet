@@ -1,1 +1,1 @@
-Moved to https://github.com/solana-developers/react-native-fake-wallet
+# Free AI at api.airforce
